@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "aRuRfXfAhydZDcy53/HuN7CrJDz1OBVVqfww9oG6nVvYlAynt+aTGuTHdMvMEaW17lbvWYhSnbjJIok0qbP9ig==",
+  "dgSpecHash": "QYh90vjcyXTyy8iRj5qgE4R3gXCFWII6orGA0brYhQ1tg4Z7B/CxmirD2skjWW3xDA+/O1qIFJSFi9Or3/JufA==",
   "success": true,
   "projectFilePath": "C:\\Users\\motal\\Projects\\DadJokes\\DadJokes\\DadJokes.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\motal\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\motal\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\motal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\motal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\motal\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\motal\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\motal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []

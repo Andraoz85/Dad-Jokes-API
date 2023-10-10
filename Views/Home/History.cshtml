@@ -1,0 +1,16 @@
+﻿@model List<RootModel>
+
+@{
+    ViewData["Title"] = "Jokes History";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var joke in Model)
+    {
+        <li>@joke.Joke</li>
+        <small class="text-muted">(@joke.FetchedAt.ToString("yyyy-MM-dd HH:mm:ss"))</small>
+
+    }
+</ul>
